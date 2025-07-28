@@ -1,6 +1,6 @@
 # 🧠 Klasifikasi Berita Hoaks Pada Berita Berbahasa Indonesia
 
-HoaxCheck Merupakan Web aplikasi berbasis Machine Learning yang dapat mengklasifikasikan apakah sebuah berita termasuk **HOAKS** atau **VALID**. Aplikasi ini dirancang untuk membantu masyarakat dalam mengenali kebenaran informasi dari teks berita yang beredar secara online. Web ini adalah bagian dari **skripsi** dan hasil klasifikasi tidak bisa dipercaya 100%. Mohon untuk memverifikasi kembali berita yang diklasifikasikan.\n\nAplikasi ini bertujuan sebagai pembelajaran dan penelitian.
+HoaxCheck Merupakan Web aplikasi berbasis Machine Learning yang dapat mengklasifikasikan apakah sebuah berita termasuk **HOAKS** atau **VALID**. Aplikasi ini dirancang untuk membantu masyarakat dalam mengenali kebenaran informasi dari teks berita yang beredar secara online. Web ini adalah bagian dari **skripsi** dan hasil klasifikasi tidak bisa dipercaya 100%. Mohon untuk memverifikasi kembali berita yang diklasifikasikan. Aplikasi ini bertujuan sebagai pembelajaran dan penelitian.
 ---
 
 ## 🚀 Fitur Utama
