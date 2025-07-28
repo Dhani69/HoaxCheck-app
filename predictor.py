@@ -24,8 +24,10 @@ def classify_text(judul, isi, model_option):
         combined_text = f"{judul} {isi}"
     elif judul.strip():
         combined_text = judul
+        st.info("⚠️ Hanya Judul yang diinput. Hasil klasifikasi mungkin kurang akurat.\n\nUntuk memaksimalkan kerja aplikasi, dianjurkan untuk mengisi **Judul** dan **Isi Berita**")
     else:
         combined_text = isi
+        st.info("⚠️ Hanya Isi yang diinput. Hasil klasifikasi mungkin kurang akurat.\n\nUntuk memaksimalkan kerja aplikasi, dianjurkan untuk mengisi **Judul** dan **Isi Berita**")
 
     # Preprocessing
     cleaned = clean_text(combined_text)
