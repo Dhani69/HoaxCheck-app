@@ -7,7 +7,7 @@ st.set_page_config(page_title="HoaxCheck", layout="wide")
 # Welcome popup
 if 'welcomed' not in st.session_state:
     st.session_state['welcomed'] = True
-    st.info("**Peringatan**: Web ini adalah bagian dari **skripsi** dan hasil klasifikasi tidak bisa dipercaya 100%. Mohon untuk memverifikasi kembali berita yang diklasifikasikan.\n\nAplikasi ini bertujuan sebagai pembelajaran dan penelitian.")
+    st.info("COBA COBA COBA tes test tes**Peringatan**: Web ini adalah bagian dari **skripsi** dan hasil klasifikasi tidak bisa dipercaya 100%. Mohon untuk memverifikasi kembali berita yang diklasifikasikan.\n\nAplikasi ini bertujuan sebagai pembelajaran dan penelitian.")
 
 # Exit button
 if 'exit' not in st.session_state:
