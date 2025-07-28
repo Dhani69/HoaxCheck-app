@@ -1,4 +1,5 @@
 # predictor.py
+import streamlit as st
 import joblib
 import xgboost as xgb
 from utils.preprocessing import clean_text
